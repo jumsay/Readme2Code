@@ -1,5 +1,5 @@
 
-# Readme2Code
+# Readme2Code (now vibe coding)
 
 Welcome to the **Readme2Code** project! This project aims to streamline the process of converting README documentation into functional code unsing AI. Below, you'll find detailed policies guiding the development and usage of the **Readme2Code** system.
 
